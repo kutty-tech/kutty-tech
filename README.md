@@ -1,13 +1,18 @@
+![logo](https://digitaledgetech.in/images/Banner_03.gif)
 <h1 align="center">Hi 👋, I'm Chinnathambi</h1>
 <h3 align="center">A passionate frontend developer from TamilNadu</h3>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1MXpyejFteG1tcTdpOXc4c3Iwc2Q4dWFnc3d1MWk0cG9oOTQyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="css3" width="500" height="300"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1MXpyejFteG1tcTdpOXc4c3Iwc2Q4dWFnc3d1MWk0cG9oOTQyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="css3" width="500" height="280"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 
 
 
 - 🔭 I’m currently in studying **BE-Mechanical Engineering**
 
 - 🌱 I’m currently learning **ECMAScript**
+
+- ⚡ technical skils are **Soft Skills,Adaptability,Content Creation**
+
+- 🤝 Tools : **Git,visual studio code**
 
 - 💬 Ask me about **html and css & editing like a Photo Retouching**
 
