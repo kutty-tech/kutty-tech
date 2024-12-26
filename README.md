@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chinnathambi0015@gmail.com**
 
-- 📄 my experiences [I am a fresher with a strong commitment to learning.](I am a fresher with a strong commitment to learning.)
+- 📄 my experiences : I am a fresher with a strong commitment to learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
